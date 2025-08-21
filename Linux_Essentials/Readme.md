@@ -21,13 +21,12 @@ Linux is the backbone of DevOps, so I focused on the most important commands, co
 - Controlling services with systemd  
 - Basic networking commands for troubleshooting  
 
-##  Folder Structure
-linux-essentials/
-│
-├── README.md           ← Overview + index of topics
-├── filesystem.md       ← navigation, file mgmt, find, etc.
-├── user-management.md  ← useradd, groups, sudo
-├── permissions.md      ← chmod, chown, umask
-├── processes.md        ← ps, top, kill, jobs
-└── networking.md       ← ping, curl, netstat, ip, traceroute
+## Click links below to open files from here
+- [filesystem.md](filesystem.md) ← navigation, file mgmt, find, etc.  
+- [user-management.md](user-management.md) ← useradd, groups, sudo  
+- [permissions.md](permissions.md) ← chmod, chown, umask  
+- [processes.md](processes.md) ← ps, top, kill, jobs  
+- [networking.md](networking.md) ← ping, curl, netstat, ip, traceroute
+- [disk-management.md](disk-management.md) ←  lsblk, fdisk -l, parted -l  
+  
 
