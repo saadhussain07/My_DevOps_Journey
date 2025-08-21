@@ -7,7 +7,7 @@ These files are provided in **PDF format** for quick access and offline usage.
 ## 📂 Available Resources
 
 - **[CheatSheet.pdf](CheatSheet.pdf)** → Quick reference of commonly used Linux/DevOps commands  
--   [Download Cheatsheet](https://github.com/saadhussain07/My_DevOps_Journey/raw/main/Resources/CheatSheet.pdf)
+-   [Download Cheatsheet](https://github.com/saadhussain07/My_DevOps_Journey/main/Resources/CheatSheet.pdf)
 
 
 ## 📌 Notes
