@@ -24,4 +24,4 @@ Shell scripting is essential for automating tasks in Linux and is a core skill f
 - [Conditionals.md](Conditionals.md) ← if, else, elif, test conditions  
 - [Loops.md](Loops.md) ← for, while, until, break, continue    
 - [Input_Output.md](Input_Output.md) ← read, echo, printf, redirection  
-- [Sample_scripts/](Sample_scripts/) ← Sample practice scripts
+- [Scripts/](Scripts/) ← Sample practice scripts
