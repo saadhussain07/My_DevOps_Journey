@@ -20,8 +20,8 @@ Shell scripting is essential for automating tasks in Linux and is a core skill f
 - Automating system tasks with practical scripts
 
 ## Click links below to open files from here
-- [variables.md](variables.md) ← User-defined, environment, special variables  
-- [conditionals.md](conditionals.md) ← if, else, elif, test conditions  
-- [loops.md](loops.md) ← for, while, until, break, continue    
-- [input_output.md](input_output.md) ← read, echo, printf, redirection  
-- [scripts/](scripts/) ← Sample practice scripts
+- [Variables.md](Variables.md) ← User-defined, environment, special variables  
+- [Conditionals.md](Conditionals.md) ← if, else, elif, test conditions  
+- [Loops.md](Loops.md) ← for, while, until, break, continue    
+- [Input_Output.md](Input_Output.md) ← read, echo, printf, redirection  
+- [Sample_scripts/](Sample_scripts/) ← Sample practice scripts
