@@ -1,5 +1,5 @@
 
-## Commands
+## Basic Commands
 - crontab -e → Edit crontab  
 - crontab -l → List jobs  
 - crontab -r → Remove crontab  
