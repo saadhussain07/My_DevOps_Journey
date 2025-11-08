@@ -80,7 +80,7 @@ git push origin main          # Push local changes to remote
 
 ```
 ## 🧠 Pro Tip
-```bash
+
 **Commit often, with meaningful messages.**
 **Small commits make troubleshooting and collaboration much easier.**
 
