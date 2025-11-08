@@ -69,7 +69,4 @@ git rebase main
 **Name branches clearly — use prefixes like feature/, bugfix/, or hotfix/.**
 
 Examples:
-
-feature/add-login-api
-bugfix/fix-docker-build
-hotfix/security-patch
+  bugfix/fix-docker-build
