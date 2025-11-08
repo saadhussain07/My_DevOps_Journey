@@ -35,5 +35,52 @@ git config --global user.email "youremail@example.com"
 # Verify configuration
 git config --list
 
+```
+## ⚙️Basic workflow
 
-## ⚙️ Basic workflow
+# Initialize a repo
+git init
+
+# Add files to staging
+git add filename
+git add .            # Add all files
+
+# Commit your changes
+git commit -m "Initial commit"
+
+# Add remote repo (GitHub or GitLab)
+git remote add origin https://gitlab.com/saadhussain07/my-repo.git
+
+# Push changes to remote
+git push -u origin main
+
+``
+## 🔍Checking Status and Logs
+
+git status           # View current branch and file states
+git log              # Show commit history
+git show <commit_id> # Show details of a specific commit
+git diff             # Compare working directory with last commit
+
+``
+## 🧹 Undoing Changes
+
+git restore filename          # Undo changes in working directory
+git reset HEAD filename       # Unstage a file
+git revert <commit_id>        # Create a new commit that undoes a previous one
+
+``
+## 📦 Working with Remotes
+
+git remote -v                 # Show remote repos
+git fetch origin              # Get latest data without merging
+git pull origin main          # Pull and merge from remote
+git push origin main          # Push local changes to remote
+
+
+``
+## 🧠 Pro Tip
+
+**Commit often, with meaningful messages.**
+**Small commits make troubleshooting and collaboration much easier.**
+
