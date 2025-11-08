@@ -51,11 +51,6 @@ These projects are documented separately in my
 
 ---
 
-## 🔗 Related Sections
-
-- [Linux Essentials](../Linux_Essentials/README.md)
-- [Shell Scripting](../Shell_Scripting/README.md)
-
 ## 💬 Note
 
 > “Git keeps my history clean, my pipelines automated, and my mistakes recoverable 😎”
