@@ -71,8 +71,8 @@ git rebase main
 ```
 
 ## 🧠 Pro Tip
-```bash
-Name branches clearly — use prefixes like feature/, bugfix/, or hotfix/.
+
+**Name branches clearly — use prefixes like feature/, bugfix/, or hotfix/.**
 
 Examples:
 
