@@ -1,9 +1,3 @@
-
----
-
-### 🌿 **`branching.md`**
-
-```markdown
 # 🌿 Git Branching & Merging
 
 Branching is one of Git’s most powerful features — allowing multiple people to work on features, fixes, and experiments without interfering with the main codebase.
