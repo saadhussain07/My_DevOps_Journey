@@ -29,7 +29,6 @@ DevOps Engineer | AIOps Researcher | IEEE TNSM Author | PITB Lahore
 | Prometheus + Grafana + Loki | ✅ Complete |
 | AIOps & LLM Agents | 🔄 In Progress |
 | IEEE TNSM Paper Submission | ✅ Submitted |
-| PITB Internship | 🔄 Incoming |
 
 ---
 
